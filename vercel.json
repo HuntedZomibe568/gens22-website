@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-    {"scr": "/", "dest": "/main.html"}
+    {"src": "/", "dest": "/main.html"}
   ]
 }
